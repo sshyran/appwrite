@@ -1,6 +1,11 @@
-# Version 0.7.0 (NOT-RELEASED)
+# Version 0.6.3 (NOT-RELEASED)
 
-- New route in Locale API to fetch a list of languages
+## Bug Fixes
+
+- Fixed output of /v1/health/queue/certificates returning wrong data
+- Deprecated Deprecated Punjabi Translations ('pn')
+- Remove UK from the eu list
+- Fixed a bug making read permission overwrite write permission in some cases
 
 # Version 0.6.2 (PRE-RELEASE)
 
